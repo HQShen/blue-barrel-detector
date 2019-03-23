@@ -8,5 +8,6 @@ Given the set of training images, you can hand-label examples of different color
 Then you can use the training files for different ways of training and see how it performs in the test images afterwards. 
 
 This is one of the results.
-![image text](blue-barrel-detector/pics/1.png)
-![image text](blue-barrel-detector/pics/2.png)
+
+![image text](./pics/1.png)
+![image text](./pics/2.png)
