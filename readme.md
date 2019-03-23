@@ -9,5 +9,5 @@ Then you can use the training files for different ways of training and see how i
 
 This is one of the results.
 
-![image text](blue-barrel-detector/pics/1.png)
+![image text](./pics/1.png)
 ![image text](./pics/2.png)
