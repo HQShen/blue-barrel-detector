@@ -7,7 +7,8 @@ Given the set of training images, you can hand-label examples of different color
 
 Then you can use the training files for different ways of training and see how it performs in the test images afterwards. 
 
-This is one of the results.
+This is one of the results. First one is segmentation result and the second one is detector result with bounding box.
 
 ![image text](./pics/1.png)
+
 ![image text](./pics/2.png)
